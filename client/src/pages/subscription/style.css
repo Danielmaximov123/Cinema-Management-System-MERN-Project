@@ -1,0 +1,28 @@
+.rmsc .dropdown-container {
+    border : 0;
+    border-bottom: 1px solid #909090;
+    border-radius: 0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+input#standard-basic-date {
+    text-align: end;
+}
+
+.rmsc.multiSelect {
+    width: 80%;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiTableContainer-root.css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+    color: inherit;
+    background-color : inherit ;
+    transition: none;
+    box-shadow: inherit;
+    border-radius: 0;
+    margin-bottom: 1rem;
+}
+
+span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
+    font-size: 0.8rem;
+}

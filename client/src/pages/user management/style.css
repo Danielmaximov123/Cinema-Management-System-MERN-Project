@@ -1,0 +1,15 @@
+.rmsc .dropdown-container {
+    border : 0;
+    border-bottom: 1px solid #909090;
+    border-radius: 0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+input#standard-basic-date {
+    text-align: end;
+}
+
+.multiSelect {
+    width: 30%;
+}
