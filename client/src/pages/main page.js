@@ -14,7 +14,7 @@ import CreatePasswordComp from './auth/create password';
 
 const MainPageComp = () => {
     const dispatch = useDispatch()
-    const { auth } = useSelector( state => state )
+    const { auth } = useSelector( state => state.auth.auth )
 
   useEffect(() => {
         dispatch(LoadUser());
